@@ -30,7 +30,7 @@ This project is a complete, full-stack food delivery web application featuring a
 ![Login](https://i.ibb.co/s6PgwkZ/food-login.png)
 - Login Popup
 
-![Kubernetes Dashboard](k8s-dashboard.png)
+![Kubernetes Dashboard](k8s-dashboard.png.png)
 
 ## Run Locally
 
